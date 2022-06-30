@@ -1,0 +1,9 @@
+.time {
+    border: 2px solid rgb(17, 236, 229);
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 30px;
+    width: 50%;
+}
